@@ -1383,5 +1383,10 @@ head -50 ~/nextarjuna/README.md
 tail -50 ~/nextarjuna/README.md
 
 
+# Lihat help
+nj help
 
+# Atau
+nj --help
+nj -h
 
