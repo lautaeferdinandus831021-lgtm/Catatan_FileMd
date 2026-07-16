@@ -1373,5 +1373,15 @@ Usage:
     python3 nextarjuna
 
 
+# Lihat per halaman
+less ~/nextarjuna/README.md
+
+# Atau lihat 50 baris pertama
+head -50 ~/nextarjuna/README.md
+
+# Atau lihat 50 baris terakhir
+tail -50 ~/nextarjuna/README.md
+
+
 
 
